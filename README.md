@@ -1,1 +1,2 @@
-# python-api-challenge
+This is a challenge that tests my ability to use API calling. The first activity pulls weather data from a pool of determined cities. Utilizing that data we are able to draw conclusions and look for correlations within the data,
+The second activity first narrows down the previous dataset to find ideal vaction spots based off of weather. I then used another API call to search for hotels within a radius of those cities.
